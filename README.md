@@ -26,7 +26,6 @@ I enjoy turning ideas into functional projects, improving my technical skills, a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hafourenai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hafourenai&theme=tokyonight&hide_border=true" />
 
 </div>
