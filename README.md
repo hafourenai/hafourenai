@@ -29,13 +29,3 @@ I enjoy turning ideas into functional projects, improving my technical skills, a
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hafourenai&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/hafourenai" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
