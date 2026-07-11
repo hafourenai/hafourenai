@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Aldi Nova
+# 👋 Hi, I'm  Aldi Nova
 
 🎓 **Information Systems Student** at **Gunadarma University**
 💻 Passionate about **Software Development**, **Machine Learning**, and **Cyber Security**
