@@ -26,6 +26,9 @@ I enjoy turning ideas into functional projects, improving my technical skills, a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=hafourenai&theme=tokyonight&hide_border=true" />
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=hafourenai&theme=tokyonight&hide_border=true"
+/>
 
 </div>
