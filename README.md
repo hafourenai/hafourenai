@@ -31,7 +31,7 @@ I enjoy turning ideas into functional projects, improving my technical skills, a
   src="https://streak-stats.demolab.com?user=hafourenai&theme=tokyonight&hide_border=true"
 />
 
-<img
+[<img
   src="https://github-readme-stats.vercel.app/api?username=hafourenai&show_icons=true&theme=tokyonight&hide_border=true&v=2"
-/>
+/>](https://github-readme-stats-sigma-five.vercel.app/api?username=hafourenai)
 </div>
