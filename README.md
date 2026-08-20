@@ -43,23 +43,23 @@
 <ul>
 
 <li>
-<b>Name:</b> Hafourenai
+<b>𝓝𝓪𝓶𝓮:</b> 𝓗𝓪𝓯𝓸𝓾𝓻𝓮𝓷𝓪𝓲 
 </li>
 
 <li>
-<b>Nickname:</b> Aldi
+<b>𝓝𝓲𝓬𝓴𝓷𝓪𝓶𝓮:</b> 𝓐𝓵𝓭𝓲 
 </li>
 
 <li>
-<b>Location:</b> Depok, Indonesia
+<b>𝓛𝓸𝓬𝓪𝓽𝓲𝓸𝓷:</b> 𝓓𝓮𝓹𝓸𝓴, 𝓘𝓷𝓭𝓸𝓷𝓮𝓼𝓲𝓪 
 </li>
 
 <li>
-<b>Education:</b> Information Systems Student at Universitas Gunadarma
+<b>𝓔𝓭𝓾𝓬𝓪𝓽𝓲𝓸𝓷:</b> 𝓘𝓷𝓯𝓸𝓻𝓶𝓪𝓽𝓲𝓸𝓷 𝓢𝔂𝓼𝓽𝓮𝓶𝓼 𝓢𝓽𝓾𝓭𝓮𝓷𝓽 𝓪𝓽 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝓪𝓼 𝓖𝓾𝓷𝓪𝓭𝓪𝓻𝓶𝓪 
 </li>
 
 <li>
-<b>Interests:</b> Fullstack Development, Machine Learning, Cybersecurity
+<b>𝓘𝓷𝓽𝓮𝓻𝓮𝓼𝓽𝓼:</b> 𝓕𝓾𝓵𝓵𝓼𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓶𝓮𝓷𝓽, 𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰, 𝓪𝓷𝓭 𝓒𝔂𝓫𝓮𝓻𝓼𝓮𝓬𝓾𝓻𝓲𝓽𝔂
 </li>
 
 </ul>
