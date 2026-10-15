@@ -18,7 +18,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hafourenai&label=Profile%20Visitors&color=bb8fce&style=for-the-badge" />
 
 </div>
 
@@ -134,8 +133,6 @@ I love transforming creative ideas into real-world applications and continuously
 <img src="https://streak-stats.demolab.com?user=Hafourenai&theme=tokyonight&hide_border=true&background=0D1117&ring=D8B4FE&fire=F9A8D4&currStreakLabel=D8B4FE" />
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafourenai&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=D8B4FE&line=F9A8D4&point=FFFFFF" width="95%" />
 
 </div>
 
