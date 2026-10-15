@@ -1,5 +1,0 @@
-1. Salin README.md dan folder assets/ ke ROOT repository profil GitHub Anda.
-2. Repository profil harus bernama sama dengan username GitHub.
-3. Ganti Hafourenai pada URL statistik jika username berbeda.
-4. Commit dan push semua file, termasuk assets/*.svg.
-5. SVG panel statis; statistik dan GIF memakai layanan eksternal sehingga tampilannya tergantung ketersediaan layanan.
