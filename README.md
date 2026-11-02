@@ -11,8 +11,8 @@
 
 <br/><br/>
 
-*"No one is coming to fight your battles."*  
-*"So rise, and fight for yourself."*
+*"No one is coming to fight your battles.*  
+*So rise, and fight for yourself."*
 
 **— Hafourenai 🌸**
 
