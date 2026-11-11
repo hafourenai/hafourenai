@@ -124,10 +124,9 @@ I love transforming creative ideas into real-world applications and continuously
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hafourenai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=F9A8D4&text_color=E5E7EB" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Hafourenai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&icon_color=F9A8D4&text_color=E5E7EB" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafourenai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=E5E7EB" />
-
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hafourenai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D8B4FE&text_color=E5E7EB" />
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Hafourenai&theme=tokyonight&hide_border=true&background=0D1117&ring=D8B4FE&fire=F9A8D4&currStreakLabel=D8B4FE" />
@@ -170,7 +169,7 @@ Always open to learning, collaborating, and sharing ideas with fellow developers
 
 <br/>
 
-<a href="https://github.com/Hafourenai">
+<a href="https://github.com/Hafourenai"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
